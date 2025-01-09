@@ -3,7 +3,7 @@
 This is my first git repo.
 <hr>
   <marquee>
-    <i><s>Welcome!!!Swagatam</i></s>
+   <i>Welcome</i>
   </marquee>
 <br>
       <br><hr><br>
