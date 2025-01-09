@@ -1,3 +1,4 @@
 # Nijan-demo
 This is my first git repo.
-<marquee>Welcome!!!Swagatam</marquee>
+<br><hr>
+<marquee><i><s><u><Welcome!!!Swagatam</i></s></u></marquee>
