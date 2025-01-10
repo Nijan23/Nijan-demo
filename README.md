@@ -7,3 +7,4 @@ This is my first git repo.
   </marquee>
 <br>
       <br><hr><br>
+Author-Nijan Shrestha
